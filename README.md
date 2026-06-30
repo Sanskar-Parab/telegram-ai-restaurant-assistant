@@ -183,7 +183,7 @@ Restaurant FAQs
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/AI-Hotel-Restaurant-Assistant.git
+git clone https://github.com/Sanskar-Parab/telegram-ai-restaurant-assistant.git
 ```
 
 2. Import the workflow into n8n
