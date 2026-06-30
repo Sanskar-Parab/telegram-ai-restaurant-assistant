@@ -215,17 +215,6 @@ git clone https://github.com/yourusername/AI-Hotel-Restaurant-Assistant.git
 
 ---
 
-## Demo
-
-Coming Soon 🚀
-
----
-
-## License
-
-MIT License
-
----
 
 ## Author
 
